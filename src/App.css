@@ -3,8 +3,9 @@
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 10vmin;
   pointer-events: none;
+  margin-bottom: 25px;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -13,21 +14,25 @@
   }
 }
 
-.App-header {
+.App {
   background-color: #282c34;
   min-height: 100vh;
+  max-height: fit-content;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: rgb(12, 12, 12);
 }
 
 .App-link {
   color: #61dafb;
 }
 
+.DropdownComponent{
+  margin-bottom: 20px;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -35,4 +40,10 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.title {
+  font-size: 1.5em;
+  text-align: center;
+  color: palevioletred;
 }
