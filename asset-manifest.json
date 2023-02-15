@@ -1,16 +1,14 @@
 {
   "files": {
-    "main.css": "/lexyalex12-customvid/static/css/main.073c9b0a.css",
-    "main.js": "/lexyalex12-customvid/static/js/main.a0e558de.js",
-    "static/js/787.af0fe55e.chunk.js": "/lexyalex12-customvid/static/js/787.af0fe55e.chunk.js",
-    "static/media/logo.svg": "/lexyalex12-customvid/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/lexyalex12-customvid/static/css/main.14d2d219.css",
+    "main.js": "/lexyalex12-customvid/static/js/main.04a89333.js",
+    "static/media/Logo.png": "/lexyalex12-customvid/static/media/Logo.66ec5ce093a727fba731.png",
     "index.html": "/lexyalex12-customvid/index.html",
-    "main.073c9b0a.css.map": "/lexyalex12-customvid/static/css/main.073c9b0a.css.map",
-    "main.a0e558de.js.map": "/lexyalex12-customvid/static/js/main.a0e558de.js.map",
-    "787.af0fe55e.chunk.js.map": "/lexyalex12-customvid/static/js/787.af0fe55e.chunk.js.map"
+    "main.14d2d219.css.map": "/lexyalex12-customvid/static/css/main.14d2d219.css.map",
+    "main.04a89333.js.map": "/lexyalex12-customvid/static/js/main.04a89333.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.a0e558de.js"
+    "static/css/main.14d2d219.css",
+    "static/js/main.04a89333.js"
   ]
 }
